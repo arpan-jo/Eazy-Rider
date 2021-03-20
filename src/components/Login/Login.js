@@ -32,7 +32,7 @@ const Login = () => {
       const name = e.target.name;
       const value = e.target.value;
       if (name === 'email') {
-         const emailCheck = /\w{4}@(gmail|email|info|yahoo).com/.test(value);
+         const emailCheck = /\w{2}@(gmail|email|info|yahoo).com/.test(value);
          if (emailCheck) {
             const loginUser = { ...user };
             loginUser.email = value;
