@@ -1,0 +1,26 @@
+.header {
+   color: white;
+}
+.header .navbar-brand {
+   color: white;
+   font-weight: bold;
+}
+.navbar-brand {
+   font-size: 50px;
+}
+.nav-link {
+   color: white !important;
+   padding: 5px 15px !important;
+   font-weight: bold;
+   display: flex;
+   align-items: center;
+}
+.nav-link:hover {
+   background-color: #dc3545;
+}
+.navbar-brand:hover {
+   background-color: #dc3545;
+}
+.nav-link:last-child:hover {
+   background-color: inherit;
+}

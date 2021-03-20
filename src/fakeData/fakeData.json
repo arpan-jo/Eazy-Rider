@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "type": "Bike",
+      "img": "https://images.financialexpress.com/2020/07/Jawa-42-660.jpg",
+      "price": "67"
+   },
+   {
+      "id": 2,
+      "type": "Car",
+      "img": "https://media.istockphoto.com/photos/illustration-of-generic-sports-coupe-car-on-white-picture-id1003904064?k=6&m=1003904064&s=612x612&w=0&h=T1aTCUWFkVzf3BnusMtir4n7szy8c56KxPcy4MjbyLE=",
+      "price": "120"
+   },
+   {
+      "id": 3,
+      "type": "Bus",
+      "img": "https://static4.depositphotos.com/1000847/372/i/600/depositphotos_3724173-stock-photo-white-passenger-bus-isolated.jpg",
+      "price": "50"
+   },
+   {
+      "id": 4,
+      "type": "Train",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSprgUvpjRy_QG-vIyu0HSwJJ_B_TmB4FzejA&usqp=CAU",
+      "price": "30"
+   }
+]
